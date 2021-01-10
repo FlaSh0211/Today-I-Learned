@@ -21,4 +21,7 @@
 * ExpressJS
 * nestJs 
 * Docker
-* jsnkins
+* jenkins
+
+## DB
+* graphQL
